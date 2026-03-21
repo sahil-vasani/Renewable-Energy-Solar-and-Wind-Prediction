@@ -1,1 +1,0 @@
-# Renewable-Energy-Solar-and-Wind-Prediction
