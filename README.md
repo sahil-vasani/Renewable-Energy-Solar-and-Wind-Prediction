@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Renewable Energy Predictive Modeling: Solar & Wind
 
 A comprehensive Machine Learning project built to analyze and forecast **Solar** and **Wind** Energy potential across all the 36 states and Union Territories in India using historical and geographical meteorological data.
@@ -64,4 +62,3 @@ The project is structured into twin pipelines—one strictly for Solar analysis 
 1. **Data Acquisition**: Run the fetch and preprocessing notebooks inside the respective Solar/Wind fetch directories.
 2. **Analysis**: Run the notebooks situated in the `EDA/` directory to glean insights.
 3. **Forecasting**: Run the models within `Model(Solar)/` or `Model(Wind)/` to observe the performance comparison rankings!
->>>>>>> ccc2a24b6cdb807289514e57aa8c02c19004901d
