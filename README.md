@@ -275,7 +275,7 @@ The wind pipeline runs a **comprehensive multi-model benchmark** with a strict t
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Renewable-Energy-Solar-and-Wind-Prediction.git
+git clone https://github.com/sahil-vasani/Renewable-Energy-Solar-and-Wind-Prediction.git
 cd Renewable-Energy-Solar-and-Wind-Prediction
 ```
 
